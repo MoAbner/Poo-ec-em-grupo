@@ -1,1 +1,4 @@
 apenas alguns concelhos : https://github.com/marceloakira/tutorials/blob/main/git/tutorial_git.md
+No segundo vídeo ele diz que o main né alterado,está informação está errada!
+É NECESSÁRIO DAR COMMIT PARA QUE A MUDANÇA VÁ PARA BRANCH QUE EU QUERO QUE VÁ
+apos fazer  commit a alteração não vai ser mostrada na main, mas apenas na branch desejada
